@@ -1,0 +1,3 @@
+tempRow = matrix(1, :);
+matrix(1, :) = matrix(3, :);
+matrix(3, :) = tempRow;
